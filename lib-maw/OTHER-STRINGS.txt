@@ -1,0 +1,53 @@
+Yanz Webshell! - PRIV8 WEB SHELL ORB YANZ BYPASS!
+$password = "MF6SXb5sds5";
+<ahref="/wp-includes/IXR/class-IXR-base64.php">
+<imgclass="icon"src="/_autoindex/assets/icons/
+<font color="green"><center> Up :
+<font color="red"><center> Shell
+<input type='submit' value='Submit'
+<input type=file name=f><input name=k type=submit id=k value=upload>
+<option value="/tmp/">
+<title>IndoXploit</title>
+<title>Legion</title>
+<title>Vuln!! patch it Now!</title>
+<input type=text name=cmd value=
+<title>Leaf PHPMailer</title>
+for="senderEmail"
+name="subject"
+#!/usr/bin/perl   -I/usr/local/bandmin
+Send Message
+<input type=password name=pass
+<input name='postpass' type='password'
+<input name=postpass type=password
+input type=password name=pass><input type=submit value='>>'>
+<pre align=center><form method=post>Password<br><input type=password name=pass
+>Password<br><input
+input type="submit" value=">>"
+<input type=submit name='watching'
+<input type="submit" value="upload" />  </form>
+<input type="file" size="20" name="uploads" />
+<form method="post" target="_self" enctype="multipart/form-data">
+<input name="_upl" type="submit" id="_upl" value="Upload"></form>
+<input type="file" name="file" size="50">
+<form action="" method="post" enctype="multipart/form-data" name="uploader" id="uploader">
+type="file"/><input type="submit"
+"type='file'
+<input type="submit" value="ddok"/>
+value="goodit"/>
+input type="file"
+type='file'
+type=\'file\'
+type= "file"
+Upload</a> ]</li><li>[
+pload</a><li><a>Sym
+<form action="" method="post"
+name="uploader" id="uploader">
+size="50"><input name="_upl"
+type="submit" id="_upl" value="
+Leafmail3
+;unlink(__FILE__);?>
+<!-- End Matomo Code -->
+var u="https://okklink.top/";
+* Leaf PHP Mailer by [orvx.pw]
+- Leaf PHPMailer</title>
+

