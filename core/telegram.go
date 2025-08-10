@@ -8,8 +8,8 @@ import (
 )
 
 func SendToTelegram(message string) {
-	token := "8066963132:AAHcVNZ6LzyPCpsy49TwgNBLposmT_HVyuE"
-	chatID := "7843818472"
+	token := "BOT TOKEN DISINI"
+	chatID := "CHATID DISINI"
 	url := fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage", token)
 
 	payload := map[string]string{"chat_id": chatID, "text": message}
